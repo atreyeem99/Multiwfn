@@ -14,4 +14,13 @@ ulimit -s unlimited
 
 ## Input files that are supported::
 1) Molden
-   This can be generated from ORCA easily. 
+   This can be generated from ORCA easily.
+```
+/home/Lib/ORCA_504/orca_2mkl hcho_nto -molden
+```
+where hcho is the basename of the gbw file
+
+## Plotting the MOs 
+After converting to molden , open Multiwfn, then select the file, then select 0 for plotting orbitals.
+The Mos for formaldehyde plotted in the same manner.
+
