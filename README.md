@@ -24,3 +24,7 @@ where hcho is the basename of the gbw file
 After converting to molden , open Multiwfn, then select the file, then select 0 for plotting orbitals.
 The Mos for formaldehyde plotted in the same manner.
 'https://github.com/atreyeem99/Multiwfn/blob/main/multiwfn_mo_comparison.pdf'
+
+## Plotting NTOs:
+For that as we open the filename.molden.input , we select 18 for Electron excitation analysis , then select 6 for NTOs then give the path for the output file, and then save the file as mwfn.
+After that, we choose singlet or triplet to plot and follow the commands accordingly.
