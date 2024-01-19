@@ -13,7 +13,9 @@ ulimit -s unlimited
 -These lines mean removing limitation on stacksize memory, and defining stacksize of 200MB for each thread during parallel calculations.
 
 ## Input files that are supported::
-1) Molden
+   Currently, a wide variety of quantum chemistry packages, such as Molpro, Molcas, ORCA, Q-Chem, CFour, Turbomole, PSI4,MRCC and NWChem, as well as a first-principle code CP2K, are able to produce input file of
+  1) Molden visualization program.
+     This type of file records atomic coordinates, basis set definition, information of all occupied and virtual orbitals (including expansion coefficient of basis functions, occupation number, spin, energy and symmetry), meanwhile there is no information only specific for Molden. So in fact, Molden input file can be regarded as a standard and general file format for exchanging wavefunction information. Fo
    This can be generated from ORCA easily.
 ```
 /home/Lib/ORCA_504/orca_2mkl hcho_nto -molden
