@@ -30,3 +30,7 @@ The Mos for formaldehyde plotted in the same manner.
 ## Plotting NTOs:
 For that as we open the filename.molden.input , we select 18 for Electron excitation analysis , then select 6 for NTOs then give the path for the output file, and then save the file as mwfn.
 After that, we choose singlet or triplet to plot and follow the commands accordingly.
+
+## Density distributions of hole and electron
+Sr is preferred as its graphical effect is better
+
