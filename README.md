@@ -33,4 +33,11 @@ After that, we choose singlet or triplet to plot and follow the commands accordi
 
 ## Density distributions of hole and electron
 Sr is preferred as its graphical effect is better
+##
+3 Functions
+64
+##  Setting up grid, plane and plotting region
+
+- When program asking you to input the number of grid points in both dimensions, you can input such as 100,150, which means in dimensions 1 and 2 the number of grid points are 100 and 150, respectively, so total number is 100*150=15000, they   are evenly distributed in the plotting region.
+- For “Relief map”, “Shaded relief map” and “Shaded relief map with projection”, commonly I recommend 100,100; if this value is exceeded, the lines in the graph will look too crowd. For other graph types I recommend 200,200. Of course the picture will become more pretty and smoother if you set the value larger, but you have to wait more time for calculation. Bear in mind that total ESP calculation is very time-consuming, you’d better use less grid points, for previewing purpose I recommend 80,80 or less.
 
