@@ -43,3 +43,10 @@ Sr is preferred as its graphical effect is better
 
 ## calculation of orbital overlap integral
 ## Sr wave function integral
+18 is for electron excitation analysis
+14 is for calculating lambda index
+1-5 is for analysing all 5 excited states
+y
+4 is for 4th excited state
+y
+0.01 is the printing threshold
