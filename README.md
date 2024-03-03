@@ -59,4 +59,8 @@ y
 4 is for 4th excited state
 y
 0.01 is the printing threshold
-# Plotting heat map
+# Plotting heat map of charge transfer matrix to intuitively understand nature of electron excitation
+18 is for electron excitation analysis
+8
+1 for heat map
+
