@@ -64,3 +64,7 @@ y
 8
 1 for heat map
 
+# Calculation of Mulliken atomic transition charges
+18
+12: Mulliken
+3: transition fron GS to 3rd ES
