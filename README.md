@@ -1,6 +1,11 @@
 # Multiwfn
 Multiwfn is a powerful wavefunction analysis program, it supports almost all of the most important wavefunction analysis methods. Multiwfn is free, open-source, high-efficient, very user-friendly and flexible. 
-
+# Citing 
+If Multiwfn is used in your research, at least this paper must be cited in main text:
+```
+Tian Lu, Feiwu Chen, Multiwfn: A Multifunctional Wavefunction Analyzer, J. Comput.
+Chem. 33, 580-592 (2012) DOI: 10.1002/jcc.22885
+```
 ## Installation for Linux
 -Uncompress the Multiwfn binary package
 -Make sure that you have installed motif package, which provides libXm.so.4, full version of
