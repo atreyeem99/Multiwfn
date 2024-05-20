@@ -76,4 +76,4 @@ y
 grid
 # QTAIM
 # Topological analysis of electron density 
-# elwctron density
+# electron density on homo lumo
