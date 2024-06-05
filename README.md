@@ -77,3 +77,7 @@ grid
 # QTAIM
 # Topological analysis of electron density 
 # electron density on homo lumo
+# QTAIM
+```
+2: Topologoical properties
+3: Search critical points from mid point of atomic pairs
