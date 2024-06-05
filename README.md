@@ -80,4 +80,7 @@ grid
 # QTAIM
 ```
 2: Topologoical properties
-3: Search critical points from mid point of atomic pairs
+3: Search critical points from mid point of atomic pairs (BCP)
+7: Show real space function values at specific or all CPs
+Select 0: Creates a CPprop.txt in that folder where all information present
+```
