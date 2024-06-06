@@ -84,3 +84,4 @@ grid
 7: Show real space function values at specific or all CPs
 Select 0: Creates a CPprop.txt in that folder where all information present
 ```
+0: to visualize
