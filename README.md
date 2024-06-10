@@ -6,6 +6,7 @@ If Multiwfn is used in your research, at least this paper must be cited in main 
 Tian Lu, Feiwu Chen, Multiwfn: A Multifunctional Wavefunction Analyzer, J. Comput.
 Chem. 33, 580-592 (2012) DOI: 10.1002/jcc.22885
 ```
+## Latest version 3.8
 ## Installation for Linux
 -Uncompress the Multiwfn binary package
 -Make sure that you have installed motif package, which provides libXm.so.4, full version of
