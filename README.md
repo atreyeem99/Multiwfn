@@ -90,3 +90,4 @@ Select 0: Creates a CPprop.txt in that folder where all information present
 Units
 ## Revisit the lambda indices and Sr index
 # AND nto
+# charge calculation with Multiwfn
