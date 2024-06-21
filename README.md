@@ -77,10 +77,13 @@ y
 grid
 # QTAIM
 # Topological analysis of electron density 
+# There are 4 types of critical points.
+```
+Nuclear critical point (3,-3)
+```
 # electron density on homo lumo
 # QTAIM
 ```
-There are 4 types of critical points.
 2: Topologoical properties
 3: Search critical points from mid point of atomic pairs (BCP)
 7: Show real space function values at specific or all CPs
@@ -91,3 +94,4 @@ Units
 ## Revisit the lambda indices and Sr index
 # AND nto
 # charge calculation with Multiwfn
+# 
